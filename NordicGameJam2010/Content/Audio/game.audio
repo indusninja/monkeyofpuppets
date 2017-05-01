@@ -1,0 +1,21 @@
+[Angry] Audio\gorilla 100
+
+[Kill] Audio\sad 100
+
+[KillDummy] Audio\small_talk 100
+
+[Win] Audio\talking 25
+
+[Background] Audio\205164_SOUNDDOGS__pa 50
+
+[Audio]
+Audio\205161_SOUNDDOGS__pa
+Audio\205163_SOUNDDOGS__pa
+Audio\205164_SOUNDDOGS__pa
+Audio\bongoloop
+Audio\fussy
+Audio\gorilla
+Audio\sad
+Audio\screamingmonkey
+Audio\small_talk
+Audio\talking

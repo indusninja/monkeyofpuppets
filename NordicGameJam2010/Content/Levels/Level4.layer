@@ -1,0 +1,33 @@
+[Passable]
+Textures\grass
+Textures\mud
+
+[NonPassable]
+Textures\tree
+Textures\water
+
+[LevelMap]
+0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+0 2 2 2 2 0 2 2 0 2 2 2 2 2 2 2 2 2
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2
+0 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+0 0 2 2 0 0 0 0 0 0 0 2 2 2 2 2 2 2
+2 0 0 0 0 2 2 0 2 2 0 2 2 2 2 2 2 2
+2 2 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 2
+2 3 3 3 2 2 2 2 2 3 3 3 2 2 2 2 2 2
+3 3 2 3 3 3 3 3 3 3 2 3 2 2 2 2 2 2
+2 2 2 2 2 2 2 2 2 2 2 3 2 2 2 2 2 2
+
+[Character]
+Textures\monkey 16 6
+[Enemy]
+Textures\gorilla 8 2
+Textures\gorilla 4 4
+Textures\gorilla 
+Textures\gorilla 
+
+[Pickups]
+Textures\Key 16 2
+Textures\Door 5 1
+
+decoyCount 2
